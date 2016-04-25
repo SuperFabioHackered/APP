@@ -1,0 +1,90 @@
+#EXTM3U.html
+#EXTINF:0,+++INTRATTENIMENTO+++
+http://guidatv.sky.it/guidatv/categorie_intrattenimento.html
+#EXTINF:-1,SKY ITALIA HD
+rtmp://$OPT:rtmp-raw=rtmp://192.151.153.50:1935/live playpath=stream swfUrl=http://xl-it.org/ch1/file/swf/player.swf live=1 pageUrl=http://xl-it.org/
+#EXTINF:-1,SKY UNO HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-uno-in-streaming-online$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,SKY ATLANTIC HD 
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-atlantic-in-streaming-online$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,SKY ARTE HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-arte-hd-in-streaming-diretta$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,FOX HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-fox-hd-in-streaming$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,FOX LIFE HD 
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-fox-life-hd-in-streaming-gratis$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,FOX CRIME HD 
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-fox-crime-hd-in-streaming-diretta$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,FOX COMEDY HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-fox-comedy-hd-in-streaming-gratis$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,FOX ANIMATION HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-fox-animation-hd-in-streaming$http-refferer=https://skystreaming.net/canali/guidatv/bambini$http-token=generatedtoken
+#EXTINF:-1,AXN HD 
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-axn-hd-in-streaming$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,AXN SCI-FI HD 
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-axn-sci-fi-in-streaming-diretta-gratis$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,LEI
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-canale-sky-lei-in-streaming-gratis$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:-1,MAN-GA
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-canale-manga-in-streaming-gratis-online$http-refferer=https://skystreaming.net/canali/guidatv/intrattenimento$http-token=generatedtoken
+#EXTINF:0,+++CINEMA+++
+http://guidatv.sky.it/guidatv/categorie_cinema.html
+#EXTINF:-1,SKY CINEMA 1 HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-cinema-1-in-streaming-live$http-refferer=https://skystreaming.net/canali/guidatv/cinema$http-token=generatedtoken
+#EXTINF:-1,SKY CINEMA +24 HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-cinema-+24-hd-in-streaming-gratis-diretta$http-refferer=https://skystreaming.net/canali/guidatv/cinema$http-token=generatedtoken
+#EXTINF:-1,SKY CINEMA COMEDY HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-cinema-comedy-hd-in-streaming-gratis$http-refferer=https://skystreaming.net/canali/guidatv/cinema$http-token=generatedtoken
+#EXTINF:-1,SKY CINEMA CLASSICS HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-classics-hd-in-streaming-diretta-gratis$http-refferer=https://skystreaming.net/canali/guidatv/cinema$http-token=generatedtoken
+#EXTINF:-1,SKY CINEMA FAMILY HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-family-hd-in-streaming-gratis$http-refferer=https://skystreaming.net/canali/guidatv/cinema$http-token=generatedtoken
+#EXTINF:-1,SKY CINEMA HITS HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-cinema-hits-hd-in-streaming-diretta$http-refferer=https://skystreaming.net/canali/guidatv/cinema$http-token=generatedtoken
+#EXTINF:-1,SKY CINEMA MAX HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-cinema-max-hd-in-streaming-diretta$http-refferer=https://skystreaming.net/canali/guidatv/cinema$http-token=generatedtoken
+#EXTINF:-1,SKY CINEMA PASSION HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-passion-hd-in-streaming-gratis$http-refferer=https://skystreaming.net/canali/guidatv/cinema$http-token=generatedtoken
+#EXTINF:-1,SKY CINEMA CULT HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-cult-hd-in-streaming-gratis$http-refferer=https://skystreaming.net/canali/guidatv/cinema$http-token=generatedtoken
+#EXTINF:-1,SKY PRIMAFILA 1 HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-primafila-1-hd-in-streaming-diretta-gratis$http-refferer=https://skystreaming.net/canali/guidatv/primafila$http-token=generatedtoken
+#EXTINF:0,+++DOCUMENTARI+++
+http://guidatv.sky.it/guidatv/sky-on-demand/documentari.html
+#EXTINF:-1,DISCOVERY CHANNEL HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-discovery-channel-hd-in-streaming-live$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:-1,DISCOVERY SCIENCE HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-discovery-science-hd-in-streaming-live$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:-1,DISCOVERY TRAVEL&LIVING HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-discovery-travel-living-hd-in-streaming-gratis-live-italia$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:-1,NATIONAL GEORAPHIC HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-sky-national-geographic-channel-hd-in-streaming-gratis$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:-1,NAT GEO WILD HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-nat-geo-wild-hd-in-streaming-live$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:-1,NAT GEO PEOPLE HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-nat-geo-people-hd-in-streaming-live$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:-1,ANIMAL PLANET
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-animal-planet-streaming-italia-live-tv-gratis$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:-1,EXPLORA HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-explora-hd-in-streaming-live$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:-1,GAMBERO ROSSO HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-gambero-rosso-hd-in-streaming-live-italia-gratis$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:-1,HISTORY CHANNEL HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-history-channel-hd-in-streaming-diretta$http-refferer=https://skystreaming.net/canali/guidatv/documentari$http-token=generatedtoken
+#EXTINF:0,+++BAMBINI+++
+http://guidatv.sky.it/guidatv/categorie_bambini.html
+#EXTINF:-1,DISNEY CHANNEL HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-disney-channel-hd-in-streaming-live-gratis$http-refferer=https://skystreaming.net/canali/guidatv/bambini$http-token=generatedtoken
+#EXTINF:-1,DISNEY CHANNEL +1
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-disney-channel-+1-in-streaming-gratis-online$http-refferer=https://skystreaming.net/canali/guidatv/bambini$http-token=generatedtoken
+#EXTINF:-1,DISNEY XD HD
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-disney-xd-hd-in-streaming-gratis$http-refferer=https://skystreaming.net/canali/guidatv/bambini$http-token=generatedtoken
+#EXTINF:-1,DISNEY JUNIOR
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-disney-junior-in-streaming-gratis-online$http-refferer=https://skystreaming.net/canali/guidatv/bambini$http-token=generatedtoken
+#EXTINF:-1,CARTOON NETWORK
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-cartoon-network-in-streaming-live$http-refferer=https://skystreaming.net/canali/guidatv/bambini$http-token=generatedtoken
+#EXTINF:-1,NICKELODEON
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-nickelodeon-italiano-in-streaming-gratis-online-live$http-refferer=https://skystreaming.net/canali/guidatv/bambini$http-token=generatedtoken
+#EXTINF:-1,SUPER!
+httphost://$http-raw=https://skystreaming.net/canali/sky/guarda-canale-super-diretta-streaming$http-refferer=https://skystreaming.net/canali/guidatv/bambini$http-token=generatedtoken
+#EXT-X-ENDLIST.html 
